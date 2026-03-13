@@ -38,7 +38,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-lightblue?style=for-the-badge)
 
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields
+
 ## 📊 GitHub Stats
 
 ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
