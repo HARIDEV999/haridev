@@ -39,4 +39,18 @@
 
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields
+## 📊 GitHub Stats
+
+![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+## 🌐 Connect With Me
+
+LinkedIn: www.linkedin.com/in/haridev-data-analyst
+EMAIL :devpclenovo@gmail.com
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME)
+
 
